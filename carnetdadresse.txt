@@ -2,3 +2,5 @@ JL Mélenchon
 06 05 04 03 02
 F Hollande
 07 06 05 04 03
+D Trump
+00 555 111 999
